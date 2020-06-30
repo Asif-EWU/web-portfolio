@@ -74,9 +74,10 @@ section {
     border-image-slice: 1;
 }
 
-footer {
+footer p {
     background-color: dimgrey;
     color: white;
     text-align: center;
     font-size: 12px;
+    margin: 0;
 }
