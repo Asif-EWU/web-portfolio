@@ -77,9 +77,6 @@ section {
 footer {
     background-color: dimgrey;
     color: white;
-}
-
-footer p {
     text-align: center;
     font-size: 12px;
 }
