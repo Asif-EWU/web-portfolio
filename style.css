@@ -11,10 +11,6 @@ h2 {
     font-size: 40px;
 }
 
-p {
-    color: dimgray;
-}
-
 .orange-highlight {
     color: orange;
 }
@@ -78,7 +74,9 @@ section {
     border-image-slice: 1;
 }
 
-footer p {
+footer {
+    background-color: dimgrey;
+    color: white;
     text-align: center;
     font-size: 12px;
 }
